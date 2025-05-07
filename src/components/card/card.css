@@ -17,7 +17,6 @@ p{
     padding: 20px;
     border-radius: 15px;
 }
-
 .cyan{
     font-weight: 400;
     color: hsl(178, 100%, 50%);
@@ -29,6 +28,7 @@ h5:hover{
     color: hsl(178, 100%, 50%);
     cursor: pointer;
 }
+
 .info{
     display: flex;
     justify-content: space-between  ;
