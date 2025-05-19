@@ -1,9 +1,10 @@
 import './card.css'
-import equi from '/src/images/image-equilibrium.jpg'
+import equi from '/src/assets/images/image-equilibrium.jpg'
 import hover from '/src/assets/images/icon-view.svg'
 import left from '/src/assets/images/icon-ethereum.svg'
 import clock from '/src/assets/images/icon-clock.svg'
 import pfp from '/src/assets/images/image-avatar.png'
+
 export default function Card() {
     return (
         <>
